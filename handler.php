@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css">
-    <title>Page Title</title>
+    <title>My first php form</title>
   </head>
 
   <body>
