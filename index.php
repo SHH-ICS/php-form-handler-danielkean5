@@ -17,7 +17,7 @@
   </head>
 
   <body>
-    <form action="welcome.php" method="post">
+    <form action="https://tkinson.net/ics2o/handler.php" method="post">
       userName: <input type="text" userName="userName"><br>
       <input type="submit">
     </form>
